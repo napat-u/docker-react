@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was vhanged on the Feature branch
+          I was vhanged on the Feature branchs
         </a>
       </header>
     </div>
