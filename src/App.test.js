@@ -4,6 +4,6 @@ import App from './App';
 
 it('renders learn react link', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/Potato Sky Line/i);
+  const linkElement = getByText(/I was vhanged on the Feature branch/i);
   expect(linkElement).toBeInTheDocument();
 });

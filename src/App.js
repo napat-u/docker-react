@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Potato Sky Line
+          I was vhanged on the Feature branch
         </a>
       </header>
     </div>
